@@ -3,6 +3,7 @@
 Por favor fazer uma descrição do que foi feito, com  motivação e um contexto, listar qualquer dependência adicionada e o porque foi adicionada para requerer a inclusão da mesma.
 
 ## Issue relacionada
+Colocar Link da issue do relaciona do jira
 <!--- Este projeto so aceita Issue relacionada ao jira -->
 <!--- Se for necessária uma New feature abrir uma issue junto ao jira -->
 <!--- Se for um Bug fix descrever como reproduzir o bug -->
