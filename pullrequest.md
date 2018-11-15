@@ -1,6 +1,6 @@
 # Descrição
 
-Por favor fazer uma descrição do que foi feito, com  motivação e um contexto, listar qualquer denpendência adicionada e o porque foi adicionada para requerer a inclusão da mesma.
+Por favor fazer uma descrição do que foi feito, com  motivação e um contexto, listar qualquer dependência adicionada e o porque foi adicionada para requerer a inclusão da mesma.
 
 ## Issue relacionada
 <!--- Este projeto so aceita Issue relacionada ao jira -->
@@ -27,6 +27,7 @@ Por favor descreva como você testou a sua alteração, que tipo de teste foi fe
 
 
 <!--##################################################################################################################-->
+### Checklist de testes
 - [ ] Teste unitário
 - [ ] Teste de integração
 
