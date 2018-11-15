@@ -40,4 +40,4 @@ Por favor descreva como você testou a sua alteração, que tipo de teste foi fe
 - [ ] Eu comentei em áres especificas no meu código onde é complexo para todos entenderem
 - [ ] Eu atualizei a documentação do projeto
 - [ ] Minha alteração gerou algum tipo de warning
-- [ ] Eu fiz TDD e implementei testes que minha alteração funciona
+- [ ] Eu fiz TDD e implementei testes comprovando que minha alteração funciona
