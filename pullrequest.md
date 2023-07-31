@@ -4,8 +4,6 @@ Por favor fazer uma descrição do que foi feito, com  motivação e um contexto
 
 ## Issue relacionada
 Colocar Link da issue  relacionada do jira
-<!--- Este projeto so aceita Issue relacionada ao jira -->
-<!--- Se for necessária uma New feature abrir uma issue junto ao jira -->
 <!--- Se for um Bug fix descrever como reproduzir o bug -->
 <!--- Coloque o Link da issue do jira abaixo-->
 
@@ -13,17 +11,25 @@ Colocar Link da issue  relacionada do jira
 
 Selecionar abaixo o tipo de alteração que foi feito, desconsiderar as outras opção.
 
-- [ ] Bug fix ( uma correção de bug que não afeta a aplicação toda)
-- [ ] New feature ( uma nova funcionalidade que não afeta a aplicação toda)
-- [ ] Breaking change (pode ser um fix ou uma new feature que afete toda a aplicação)
-- [ ] Essa modificação requer alteração na documentação
+- [ ] Hotfix 
+- [ ] New feature
+- [ ] Chore 
+
+
+# Qual o risco da sua modificacao ?
+- [ ] Alto 
+- [ ] Medio
+- [ ] Baixo
+
+# Qual o plano de acompanhamento no pos implantacao ?
+ <!--- descreva como sera acompanhada a PR pos a implantacao  --->
 
 # Como a alteração foi testada?
 
 Por favor descreva como você testou a sua alteração, que tipo de teste foi feito, coloque artefatos de seus teste para compravar que foi testada sua alteração.
 
 ## Artefatos
-<!-- Nesta área coloque artefatos de seus teste, screenshots, e obrigatoriamente o coverage proporcionado pelo jasmine-->
+
 
 
 
@@ -38,6 +44,4 @@ Por favor descreva como você testou a sua alteração, que tipo de teste foi fe
 - [ ] Meu código segue os padões do projeto
 - [ ] Eu revi meu código antes de abir a PR
 - [ ] Eu comentei em áres especificas no meu código onde é complexo para todos entenderem
-- [ ] Eu atualizei a documentação do projeto
-- [ ] Minha alteração gerou algum tipo de warning
-- [ ] Eu fiz TDD e implementei testes comprovando que minha alteração funciona
+
