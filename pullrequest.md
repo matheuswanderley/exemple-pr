@@ -22,7 +22,8 @@ Selecionar abaixo o tipo de alteração que foi feito, desconsiderar as outras o
 - [ ] Baixo
 
 # Qual o plano de acompanhamento no pos implantacao ?
- <!--- descreva como sera acompanhada a PR pos a implantacao  --->
+ 
+Descreva como sera acompanhada a PR pos a implantacao
 
 # Como a alteração foi testada?
 
